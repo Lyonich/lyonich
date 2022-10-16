@@ -2,9 +2,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lyonich&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=lyonich&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyonich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lyonich&theme=dark&hide_border=true&card_width=500)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lyonich&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&&card_width=500)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyonich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true&&card_width=500)
 
 
 <!--
