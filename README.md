@@ -4,7 +4,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lyonich&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=lyonich&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyonich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyonich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true)
 
 
 <!--
