@@ -2,7 +2,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lyonich&theme=gradient&hide_border=true&card_width=400)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lyonich&theme=default&hide_border=true&card_width=400)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lyonich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true&&card_width=300)
 
 
